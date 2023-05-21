@@ -14,7 +14,7 @@ Throughout my portfolio website, you will find various sections dedicated to dif
 
 As mentioned earlier, my portfolio website is currently under construction. I want to assure you that I am actively working on enhancing the site's functionality, refining the design, and adding more compelling content. While you browse through the available sections, please keep in mind that there is more to come. I am committed to providing an engaging and comprehensive experience, and your patience is greatly appreciated.
 
-## Future Updates
+# Future Updates
 
 In the coming weeks and months, I plan to incorporate several exciting updates to my portfolio website. Here are some of the enhancements you can look forward to:
 
